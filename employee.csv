@@ -1,0 +1,4 @@
+id,email,employee_name,phone_number,profile_image,reports_to
+1,john@example.com,"John Doe",1234567890,https://example.com/john.jpg,1f3854b0-b07e-4efd-9802-cf96b995878a
+1f3854b0-b07e-4efd-9802-cf96b995878a,diksha@gmail.com,"Diksha Raut",9967583695,https://example.com/dksha.jpg,1
+b5b3896e-a739-4373-a5dc-69adc67a1ad9,spider@gmail.com,"Spider Man",0033445566,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEmmx-zKdaalSKs3ZTdR4qTROYco1VB6n8ApH3CEv_A&s,1
